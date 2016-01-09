@@ -1,14 +1,3 @@
-<style type="text/css"> 
-	/**
-	* Custom
-	*/ 
-	.tab-pane.fade.active.in {
-	    width:100% !important; 
-	}  	
-</style>
-
- 
-
 <?php
 /**
  * Autoloader
@@ -640,5 +629,5 @@ return $content;
 }
 
 add_filter('the_content','replace_content');
-
-
+ 
+ 

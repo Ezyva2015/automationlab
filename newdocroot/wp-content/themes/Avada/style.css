@@ -24,12 +24,7 @@ Text Domain: Avada
 Needed Styles From Bootstrap
 -----------------------------------------------------------------------------*/
  
-/**
-* Custom
-*/ 
-.tab-pane.fade.active.in {
-    width:100%; 
-} 
+
 .fade {
   opacity: 0;
   -webkit-transform: opacity 0.3s linear;
@@ -13847,9 +13842,7 @@ table {
 #content .post-content .gform_wrapper, .gform_wrapper .gform_heading .gform_title, .gform_wrapper  input, .gform_wrapper  select, .gform_wrapper .gform_fields select, .gform_wrapper .gform_fields input{
 	color:#50586b !important;
 }
-
  
-
 /**
 * Custom
 */ 
